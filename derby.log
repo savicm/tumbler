@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 26 17:58:52 CEST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014f-6abb-bb2c-000008c1c8c0 
+on database directory /home/milos/NetBeansProjects/Tumbler/tumbler with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/home/milos/NetBeansProjects/Tumbler/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/home/milos/NetBeansProjects/Tumbler
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-49-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
